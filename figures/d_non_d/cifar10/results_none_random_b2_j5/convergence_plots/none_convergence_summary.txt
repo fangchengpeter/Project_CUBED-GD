@@ -1,0 +1,7 @@
+Convergence Analysis Summary for Variant: none
+========================================
+Final Mean Accuracy: 10.00%
+Epoch to reach 900.0% accuracy: 1
+Accuracy Stability (last 10% epochs std dev): 0.0229
+----------------------------------------
+Final Mean Loss: 22268.8301

@@ -1,0 +1,8 @@
+*.pt
+/data/*
+
+*.tar.gz
+results/*
+__pycache__/
+sythetic_results/*
+may_useful

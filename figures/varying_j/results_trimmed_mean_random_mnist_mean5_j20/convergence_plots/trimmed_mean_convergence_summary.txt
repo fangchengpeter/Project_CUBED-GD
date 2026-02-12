@@ -1,0 +1,7 @@
+Convergence Analysis Summary for Variant: trimmed_mean
+========================================
+Final Mean Accuracy: 91.82%
+Epoch to reach 8263.9% accuracy: 5
+Accuracy Stability (last 10% epochs std dev): 0.0031
+----------------------------------------
+Final Mean Loss: 0.3629
